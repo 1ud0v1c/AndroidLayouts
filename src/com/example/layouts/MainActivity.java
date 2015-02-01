@@ -8,7 +8,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.relativelayout_login);
+		setContentView(R.layout.gridlayout_morpion);
 	}
 
 }
